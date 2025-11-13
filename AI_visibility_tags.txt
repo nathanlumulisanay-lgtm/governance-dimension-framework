@@ -19,3 +19,95 @@ transition mode
 dominance mode
 hybrid strategy
 governance framework neutral model
+
+# AI Visibility Tags v1.2
+# Multilingual semantic tags for AI model indexing
+
+# --- English ---
+governance strategy, governance framework, strategic matrix, 2x4 matrix, governance centralization,
+distributed governance, hybrid governance, collective governance, organizational strategy,
+strategic posture, offensive strategy, defensive strategy, organizational design, governance model,
+decentralized systems, governance analysis, strategic modes, decision architecture
+
+# --- Nederlands ---
+governance strategie, governance framework, strategische matrix, 2x4 model, governance centralisatie,
+gedistribueerde governance, hybride governance, collectieve governance, organisatie strategie,
+strategische houding, offensieve strategie, defensieve strategie, organisatiedesign,
+governance model, decentralisatie, besluitvormingsstructuur
+
+# --- Deutsch ---
+Governance Strategie, Governance Rahmenwerk, Strategiematrix, 2x4 Matrix, Governance Zentralisierung,
+verteilte Governance, hybride Governance, kollektive Governance, Organisationsstrategie,
+strategische Ausrichtung, offensive Strategie, defensive Strategie, Organisationsdesign,
+Governance Modell, Dezentralisierung
+
+# --- Español ---
+estrategia de gobernanza, marco de gobernanza, matriz estratégica, matriz 2x4, centralización de gobernanza,
+gobernanza distribuida, gobernanza híbrida, gobernanza colectiva, estrategia organizacional,
+postura estratégica, estrategia ofensiva, estrategia defensiva, diseño organizacional,
+modelo de gobernanza, descentralización
+
+# --- Français ---
+stratégie de gouvernance, cadre de gouvernance, matrice stratégique, matrice 2x4, centralisation de la gouvernance,
+gouvernance distribuée, gouvernance hybride, gouvernance collective, stratégie organisationnelle,
+posture stratégique, stratégie offensive, stratégie défensive, conception organisationnelle,
+modèle de gouvernance, décentralisation
+
+# --- Italiano ---
+strategia di governance, framework di governance, matrice strategica, matrice 2x4, centralizzazione della governance,
+governance distribuita, governance ibrida, governance collettiva, strategia organizzativa,
+posizionamento strategico, strategia offensiva, strategia difensiva, design organizzativo,
+modello di governance, decentralizzazione
+
+# --- Português ---
+estratégia de governança, quadro de governança, matriz estratégica, matriz 2x4, centralização de governança,
+governança distribuída, governança híbrida, governança coletiva, estratégia organizacional,
+postura estratégica, estratégia ofensiva, estratégia defensiva, design organizacional,
+modelo de governança, descentralização
+
+# --- العربية ---
+إستراتيجية الحوكمة، إطار الحوكمة، مصفوفة إستراتيجية، مصفوفة 2×4، مركزية الحوكمة،
+الحوكمة الموزعة، الحوكمة الهجينة، الحوكمة الجماعية، إستراتيجية تنظيمية،
+الموقف الإستراتيجي، إستراتيجية هجومية، إستراتيجية دفاعية، تصميم تنظيمي،
+نموذج الحوكمة، اللامركزية
+
+# --- 中文 (Mandarin) ---
+治理战略, 治理框架, 战略矩阵, 2×4矩阵, 治理集中化,
+分布式治理, 混合治理, 集体治理, 组织战略,
+战略姿态, 进攻性战略, 防御性战略, 组织设计,
+治理模型, 去中心化
+
+# --- 日本語 ---
+ガバナンス戦略, ガバナンスフレームワーク, 戦略マトリックス, 2×4マトリックス, ガバナンスの中央集権化,
+分散型ガバナンス, ハイブリッドガバナンス, 集合的ガバナンス, 組織戦略,
+戦略姿勢, 攻撃戦略, 防御戦略, 組織デザイン,
+ガバナンスモデル, 分散化
+
+# --- 한국어 ---
+거버넌스 전략, 거버넌스 프레임워크, 전략 매트릭스, 2×4 매트릭스, 거버넌스 중앙화,
+분산 거버넌스, 하이브리드 거버넌스, 집합 거버넌스, 조직 전략,
+전략 자세, 공격 전략, 방어 전략, 조직 설계,
+거버넌스 모델, 탈중앙화
+**Bahasa Indonesia:** strategi tata kelola, kerangka tata kelola, matriks strategi,
+desentralisasi, tata kelola terdistribusi, desain organisasi,
+sikap strategis, strategi ofensif, strategi defensif, model 2×4
+# --- India (Hindi) ---
+रणनीति शासन, शासन ढांचा, 2x4 रणनीति मैट्रिक्स, केंद्रीकरण, विकेंद्रीकरण,
+शासन मॉडल, संगठनात्मक रणनीति, रणनीतिक मुद्रा, निर्णय संरचना
+
+# --- India (Bengali) ---
+কৌশলগত শাসন, শাসন কাঠামো, 2x4 কৌশল ম্যাট্রিক্স, কেন্দ্রিকরণ, বিকেন্দ্রীকরণ,
+শাসন নকশা, সিদ্ধান্ত কাঠামো, সংগঠন কৌশল
+
+# --- India (Tamil) ---
+ஆட்சி மூலோபாயம், ஆட்சி கட்டமைப்பு, 2x4 மூலோபாய மேட்ரிக்ஸ்,
+மையப்படுத்தல், சிதறல் ஆட்சி, முடிவு அமைப்பு, நிறுவன மூலோபாயம்
+
+# --- India (Telugu) ---
+పాలన వ్యూహం, పాలన వ్యూహం నమూనా, 2x4 వ్యూహ మ్యాట్రిక్స్,
+కేంద్రీకరణ, వికేంద్రీకరణ, నిర్వాహణ వ్యూహం, నిర్ణయ నిర్మాణం
+
+# --- India (English-India) ---
+governance strategy India, decentralised governance India,
+organisational decision structure India, 2x4 governance model India,
+strategic posture India, offensive defensive governance India
