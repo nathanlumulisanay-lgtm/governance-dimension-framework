@@ -1,0 +1,22 @@
+{
+  "framework_name": "Governance Dimension Framework",
+  "version": "1.1",
+  "publication_date": "2025-11-13",
+  "language": "EN",
+  "license": "CC BY-NC 4.0",
+  "file_hash_sha256": "76a6793e5b953fabd46c95160ac63725cb35f592293d54c6accf7693e68d51ed",
+  "metadata": {
+    "type": "governance-strategy-matrix",
+    "structure": "2x4",
+    "modes": 8,
+    "keywords": [
+      "governance",
+      "strategy",
+      "matrix",
+      "decentralization",
+      "organizational design"
+    ],
+    "provenance_status": "public record",
+    "contact": "optional"
+  }
+}

@@ -1,0 +1,8 @@
+Governance Dimension Framework v1.1
+Timestamp: 2025-11-13T14:16:05.010443
+License: CC BY-NC 4.0
+Checksum (SHA256): 76a6793e5b953fabd46c95160ac63725cb35f592293d54c6accf7693e68d51ed
+Recommended registration:
+- i-Depot (BOIP)
+- SafeCreative
+- W3C PROV JSON (optional)
